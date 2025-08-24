@@ -1,7 +1,3 @@
-# 💫 About Me:
-Hey, I'm Daniel. I'm a 17-year-old developer who loves building things with code. I'm currently deep into the world of Python and JavaScript, and I enjoy using Vue.js to create smooth, interactive web interfaces. When I'm not working on the frontend with HTML and CSS, I'm often tinkering with Node.js on the backend to see how everything connects.<br><br>I'm always learning, always curious, and always up for a new challenge. You'll usually find me with my editor of choice, VSCode, open with far too many tabs.
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/justin7oo9) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@justin7oo9) 
 
